@@ -39,3 +39,22 @@ h1 {
   margin: 25px auto;
   transition: background 500ms;
 }
+
+.green{
+  background-color: #008000;
+}
+
+.red{
+  background-color: #ff0000;
+}
+
+.orange{
+  background-color: #ffa500;
+}
+
+.black{
+  background-color: #000000;
+}
+
+
+
